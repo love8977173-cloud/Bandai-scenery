@@ -1,0 +1,686 @@
+[
+  {
+    "id": 1,
+    "barcode": "4983164295573",
+    "brand": "BANPRESTO (景品)",
+    "name": "塔麻歌子 歡迎光臨 小小店鋪! 米米吉 絨毛玩偶",
+    "preorder_price": 480,
+    "release_date": "2月上旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 2,
+    "barcode": "4580886901791",
+    "brand": "BANPRESTO (景品)",
+    "name": "蠟筆小新 絨毛面紙套 小白與玩具箱",
+    "preorder_price": 530,
+    "release_date": "2月下旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 3,
+    "barcode": "4580886903153",
+    "brand": "BANPRESTO (景品)",
+    "name": "蠟筆小新 絨毛玩偶 微笑小白",
+    "preorder_price": 480,
+    "release_date": "2月中旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 4,
+    "barcode": "4580886903160",
+    "brand": "BANPRESTO (景品)",
+    "name": "蠟筆小新 鱷魚牙醫 鱷魚山先生ver.",
+    "preorder_price": 430,
+    "release_date": "2月下旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 5,
+    "barcode": "4580886901821",
+    "brand": "BANPRESTO (景品)",
+    "name": "蠟筆小新 大尺寸公仔 野原新之助 喔喔~",
+    "preorder_price": 480,
+    "release_date": "2月上旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 6,
+    "barcode": "4580886901852",
+    "brand": "BANPRESTO (景品)",
+    "name": "湯姆貓與傑利鼠 絨毛玩偶 可麗餅造型",
+    "preorder_price": 480,
+    "release_date": "2月上旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 7,
+    "barcode": "4580886901869",
+    "brand": "BANPRESTO (景品)",
+    "name": "湯姆貓與傑利鼠 大尺寸公仔 可麗露Vol.2",
+    "preorder_price": 480,
+    "release_date": "2月中旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 8,
+    "barcode": "4580886901180",
+    "brand": "BANPRESTO (景品)",
+    "name": "鋼彈×hololive production #hololive IF 海盜鋼彈 X1×寶鐘瑪琳 絨毛裝甲版公仔",
+    "preorder_price": 480,
+    "release_date": "2月下旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 9,
+    "barcode": "4580886902163",
+    "brand": "BANPRESTO (景品)",
+    "name": "鋼彈×hololive production #hololive IF 獨角獸鋼彈×兔田佩克拉 絨毛裝甲版公仔",
+    "preorder_price": 480,
+    "release_date": "2月下旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 10,
+    "barcode": "4580886902170",
+    "brand": "BANPRESTO (景品)",
+    "name": "OMORI 坐姿公仔 Omori＆奧布里 (A：Omori)",
+    "preorder_price": 480,
+    "release_date": "2月中旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 11,
+    "barcode": "4580886902187",
+    "brand": "BANPRESTO (景品)",
+    "name": "OMORI 坐姿公仔 Omori＆奧布里 (B：奧布里)",
+    "preorder_price": 480,
+    "release_date": "2月中旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 12,
+    "barcode": "4580886902194",
+    "brand": "BANPRESTO (景品)",
+    "name": "星之卡比 針織風公仔 卡比＆瓦豆魯迪＆睡覺卡比 (A：卡比)",
+    "preorder_price": 320,
+    "release_date": "2月中旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 13,
+    "barcode": "4580886902200",
+    "brand": "BANPRESTO (景品)",
+    "name": "星之卡比 針織風公仔 卡比＆瓦豆魯迪＆睡覺卡比 (B：瓦豆魯迪)",
+    "preorder_price": 320,
+    "release_date": "2月中旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 14,
+    "barcode": "4580886902217",
+    "brand": "BANPRESTO (景品)",
+    "name": "星之卡比 針織風公仔 卡比＆瓦豆魯迪＆睡覺卡比 (C：睡覺卡比)",
+    "preorder_price": 320,
+    "release_date": "2月中旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 15,
+    "barcode": "4580886900732",
+    "brand": "BANPRESTO (景品)",
+    "name": "女神轉生系列 Fluffy Puffy 傑克霜精＆邪惡霜精 (A：傑克霜精)",
+    "preorder_price": 480,
+    "release_date": "2月下旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 16,
+    "barcode": "4580886900749",
+    "brand": "BANPRESTO (景品)",
+    "name": "女神轉生系列 Fluffy Puffy 傑克霜精＆邪惡霜精 (B：邪惡霜精)",
+    "preorder_price": 480,
+    "release_date": "2月下旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 17,
+    "barcode": "4983164297164",
+    "brand": "BANPRESTO (景品)",
+    "name": "勝利女神：妮姬 阿妮斯 公仔",
+    "preorder_price": 480,
+    "release_date": "2月上旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 18,
+    "barcode": "4983164298734",
+    "brand": "BANPRESTO (景品)",
+    "name": "勝利女神：妮姬  毒蛇 公仔",
+    "preorder_price": 480,
+    "release_date": "2月上旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 19,
+    "barcode": "4573102745569",
+    "brand": "BANPRESTO (景品)",
+    "name": "藥師少女的獨語 貓貓 公仔 打工ver.",
+    "preorder_price": 480,
+    "release_date": "2月下旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 20,
+    "barcode": "4580886902255",
+    "brand": "BANPRESTO (景品)",
+    "name": "孤獨搖滾！小孤獨甜點系列 (ver.A)",
+    "preorder_price": 480,
+    "release_date": "2月中旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 21,
+    "barcode": "4580886902262",
+    "brand": "BANPRESTO (景品)",
+    "name": "孤獨搖滾！ 小孤獨甜點系列(ver.B)",
+    "preorder_price": 480,
+    "release_date": "2月中旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 22,
+    "barcode": "4573102745576",
+    "brand": "BANPRESTO (景品)",
+    "name": "少女與戰車 最終章 Eternal Romance 西住志穗 女僕泳裝ver.",
+    "preorder_price": 480,
+    "release_date": "2月上旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 23,
+    "barcode": "4580886902330",
+    "brand": "BANPRESTO (景品)",
+    "name": "K-ON！輕音部 SQ Figure 田井中律",
+    "preorder_price": 480,
+    "release_date": "2月下旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 24,
+    "barcode": "4580886902347",
+    "brand": "BANPRESTO (景品)",
+    "name": "K-ON！輕音部 SQ Figure 琴吹紬",
+    "preorder_price": 480,
+    "release_date": "2月下旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 25,
+    "barcode": "4580886902354",
+    "brand": "BANPRESTO (景品)",
+    "name": "K-ON！輕音部 SQ Figure 中野梓",
+    "preorder_price": 480,
+    "release_date": "2月下旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 26,
+    "barcode": "4580886902439",
+    "brand": "BANPRESTO (景品)",
+    "name": "金牌得主 ESPRESTO Ice wings 結束祈",
+    "preorder_price": 480,
+    "release_date": "2月中旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 27,
+    "barcode": "4580886902446",
+    "brand": "BANPRESTO (景品)",
+    "name": "金牌得主 ESPRESTO Ice wings 狼嵜光",
+    "preorder_price": 480,
+    "release_date": "2月中旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 28,
+    "barcode": "4580886902538",
+    "brand": "BANPRESTO (景品)",
+    "name": "天才麻將少女 Relax time 石戶霞",
+    "preorder_price": 480,
+    "release_date": "2月中旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 29,
+    "barcode": "4580886902545",
+    "brand": "BANPRESTO (景品)",
+    "name": "火影忍者 疾風傳 FigLife! 外道魔像",
+    "preorder_price": 480,
+    "release_date": "2月中旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 30,
+    "barcode": "4580886902552",
+    "brand": "BANPRESTO (景品)",
+    "name": "火影忍者 疾風傳 Noir Edge Collection 宇智波斑(鳶)&絕 (A：宇智波斑(鳶))",
+    "preorder_price": 480,
+    "release_date": "2月中旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 31,
+    "barcode": "4580886902569",
+    "brand": "BANPRESTO (景品)",
+    "name": "火影忍者 疾風傳 Noir Edge Collection 宇智波斑(鳶)&絕 (B：絕)",
+    "preorder_price": 480,
+    "release_date": "2月中旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 32,
+    "barcode": "4580886902576",
+    "brand": "BANPRESTO (景品)",
+    "name": "火影忍者 疾風傳 Noir Edge Collection 佩恩&小南 (A：佩恩)",
+    "preorder_price": 480,
+    "release_date": "2月中旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 33,
+    "barcode": "4580886902583",
+    "brand": "BANPRESTO (景品)",
+    "name": "火影忍者 疾風傳 Noir Edge Collection 佩恩&小南 (B：小南)",
+    "preorder_price": 480,
+    "release_date": "2月中旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 34,
+    "barcode": "4983164293364",
+    "brand": "BANPRESTO (景品)",
+    "name": "JoJo的奇妙冒險 戰鬥潮流 Mometria 喬瑟夫·喬斯達",
+    "preorder_price": 480,
+    "release_date": "2月下旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 35,
+    "barcode": "4580886901081",
+    "brand": "BANPRESTO (景品)",
+    "name": "JoJo的奇妙冒險 戰鬥潮流 Mometria 西撒·A·齊貝林",
+    "preorder_price": 480,
+    "release_date": "2月下旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 36,
+    "barcode": "4573102749130",
+    "brand": "BANPRESTO (景品)",
+    "name": "槍彈辯駁1·2 Reload 江之島盾子 公仔",
+    "preorder_price": 480,
+    "release_date": "2月下旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 37,
+    "barcode": "4580886902590",
+    "brand": "BANPRESTO (景品)",
+    "name": "婚姻劇毒 ESPRESTO Poison Master 下呂光",
+    "preorder_price": 480,
+    "release_date": "2月下旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 38,
+    "barcode": "4580886902606",
+    "brand": "BANPRESTO (景品)",
+    "name": "一拳超人 公仔#1 埼玉 Crash Base ver.",
+    "preorder_price": 480,
+    "release_date": "2月中旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 39,
+    "barcode": "4580886902613",
+    "brand": "BANPRESTO (景品)",
+    "name": "一拳超人 G&G 地獄的吹雪",
+    "preorder_price": 480,
+    "release_date": "2月中旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 40,
+    "barcode": "4573102749161",
+    "brand": "BANPRESTO (景品)",
+    "name": "刃牙  空氣味噌湯 公仔  範馬勇次郎",
+    "preorder_price": 480,
+    "release_date": "2月下旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 41,
+    "barcode": "4573102749178",
+    "brand": "BANPRESTO (景品)",
+    "name": "刃牙  空氣味噌湯 公仔 範馬刃牙",
+    "preorder_price": 480,
+    "release_date": "2月下旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 42,
+    "barcode": "4580886902620",
+    "brand": "BANPRESTO (景品)",
+    "name": "刃牙 烈海王的烈車拳滾輪喔喔！！公仔",
+    "preorder_price": 480,
+    "release_date": "2月下旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 43,
+    "barcode": "4573102749185",
+    "brand": "BANPRESTO (景品)",
+    "name": "葬送的芙莉蓮 某間咖啡廳的芙莉蓮 公仔",
+    "preorder_price": 480,
+    "release_date": "2月中旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 44,
+    "barcode": "4573102749192",
+    "brand": "BANPRESTO (景品)",
+    "name": "葬送的芙莉蓮 公仔 某間咖啡廳的費倫",
+    "preorder_price": 480,
+    "release_date": "2月中旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 45,
+    "barcode": "4580886902682",
+    "brand": "BANPRESTO (景品)",
+    "name": "關於我轉生變成史萊姆這檔事 Otherworlder Plus 蜜莉姆 龍裝版公仔 特別色版",
+    "preorder_price": 480,
+    "release_date": "2月中旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 46,
+    "barcode": "4580886902699",
+    "brand": "BANPRESTO (景品)",
+    "name": "咒術迴戰 MAXIMATIC 乙骨憂太 死滅迴游Ⅱ",
+    "preorder_price": 480,
+    "release_date": "2月下旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 47,
+    "barcode": "4580886902705",
+    "brand": "BANPRESTO (景品)",
+    "name": "咒術迴戰 MAXIMATIC 石流龍",
+    "preorder_price": 480,
+    "release_date": "2月下旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 48,
+    "barcode": "4580886900916",
+    "brand": "BANPRESTO (景品)",
+    "name": "K-ON！輕音部 SQ Figure 平澤唯",
+    "preorder_price": 480,
+    "release_date": "2月下旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 49,
+    "barcode": "4580886900923",
+    "brand": "BANPRESTO (景品)",
+    "name": "K-ON！輕音部 SQ Figure 秋山澪",
+    "preorder_price": 480,
+    "release_date": "2月下旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 50,
+    "barcode": "4573102747372",
+    "brand": "BANPRESTO (景品)",
+    "name": "數碼寶貝大冒險 DIGIVICE STAND！亞古獸",
+    "preorder_price": 480,
+    "release_date": "2月中旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 51,
+    "barcode": "4573102747389",
+    "brand": "BANPRESTO (景品)",
+    "name": "數碼寶貝大冒險 DIGIVICE STAND！暴龍獸",
+    "preorder_price": 480,
+    "release_date": "2月下旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 52,
+    "barcode": "4580886902743",
+    "brand": "BANPRESTO (景品)",
+    "name": "七龍珠Z MATCH MAKERS 魔人普烏(純粹)（VS魔人普烏(善)）",
+    "preorder_price": 480,
+    "release_date": "2月中旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 53,
+    "barcode": "4580886902750",
+    "brand": "BANPRESTO (景品)",
+    "name": "七龍珠Z MATCH MAKERS 魔人普烏(善)（VS魔人普烏(純粹)）",
+    "preorder_price": 480,
+    "release_date": "2月中旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 54,
+    "barcode": "4580886902767",
+    "brand": "BANPRESTO (景品)",
+    "name": "七龍珠Z SOLID EDGE WORKS THE出陣 拿帕",
+    "preorder_price": 480,
+    "release_date": "2月下旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 55,
+    "barcode": "4580886902774",
+    "brand": "BANPRESTO (景品)",
+    "name": "七龍珠超 BLOOD OF SAIYANS 孫悟飯野獸形態",
+    "preorder_price": 480,
+    "release_date": "2月中旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 56,
+    "barcode": "4580886902781",
+    "brand": "BANPRESTO (景品)",
+    "name": "航海王 海賊王 WCF LOG STORIES 波特卡斯·D·艾斯 推進城篇",
+    "preorder_price": 480,
+    "release_date": "2月下旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 57,
+    "barcode": "4573102747464",
+    "brand": "BANPRESTO (景品)",
+    "name": "航海王 KING OF ARTIST 斯克巴·賈巴",
+    "preorder_price": 480,
+    "release_date": "2月上旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 58,
+    "barcode": "4580886902798",
+    "brand": "BANPRESTO (景品)",
+    "name": "航海王 MAXIMATIC 傑克",
+    "preorder_price": 480,
+    "release_date": "2月下旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 59,
+    "barcode": "4580886902804",
+    "brand": "BANPRESTO (景品)",
+    "name": "航海王 MAXIMATICPLUS 波特卡斯·D·艾斯 馬林福特",
+    "preorder_price": 480,
+    "release_date": "2月下旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 60,
+    "barcode": "4580886902941",
+    "brand": "BANPRESTO (景品)",
+    "name": "超人力霸王系列 鎮座獸 宇宙恐龍傑頓 (ver.A)",
+    "preorder_price": 480,
+    "release_date": "2月中旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 61,
+    "barcode": "4580886902958",
+    "brand": "BANPRESTO (景品)",
+    "name": "超人力霸王系列 鎮座獸 宇宙恐龍傑頓 (ver.B)",
+    "preorder_price": 480,
+    "release_date": "2月中旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 62,
+    "barcode": "4580886902965",
+    "brand": "BANPRESTO (景品)",
+    "name": "貓咪大戰爭 貓咪軍團出陣公仔 非命之王佛挪",
+    "preorder_price": 480,
+    "release_date": "2月中旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 63,
+    "barcode": "4573102749628",
+    "brand": "BANPRESTO (景品)",
+    "name": "光之美少女 VIBRATION STARS 黑天使",
+    "preorder_price": 480,
+    "release_date": "2月中旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 64,
+    "barcode": "4573102749635",
+    "brand": "BANPRESTO (景品)",
+    "name": "光之美少女 VIBRATION STARS 雪天使",
+    "preorder_price": 480,
+    "release_date": "2月中旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 65,
+    "barcode": "4573102746573",
+    "brand": "BANPRESTO (景品)",
+    "name": "烙印勇士 Grandista GUTS (A：凱茲)",
+    "preorder_price": 480,
+    "release_date": "3月下旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 66,
+    "barcode": "4573102746580",
+    "brand": "BANPRESTO (景品)",
+    "name": "烙印勇士 Grandista GUTS (B：右臂＆武器)",
+    "preorder_price": 480,
+    "release_date": "3月下旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 67,
+    "barcode": "4580886903207",
+    "brand": "BANPRESTO (景品)",
+    "name": "航海王 THEORAMA SOUL 蒙其·D·魯夫 五檔",
+    "preorder_price": 480,
+    "release_date": "3月上旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 68,
+    "barcode": "4580886903177",
+    "brand": "BANPRESTO (景品)",
+    "name": "王者天下Grandista 信",
+    "preorder_price": 480,
+    "release_date": "3月下旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 69,
+    "barcode": "4580886903184",
+    "brand": "BANPRESTO (景品)",
+    "name": "王者天下 Grandista 嬴政",
+    "preorder_price": 480,
+    "release_date": "3月下旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 70,
+    "barcode": "4580886901722",
+    "brand": "BANPRESTO (景品)",
+    "name": "精靈寶可夢 絨毛玩偶 莫魯貝可(滿腹花紋) 眨眼ver.",
+    "preorder_price": 480,
+    "release_date": "2月中旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 71,
+    "barcode": "4580886901739",
+    "brand": "BANPRESTO (景品)",
+    "name": "精靈寶可夢 絨毛玩偶 莫魯貝可(空腹花紋) 眨眼ver.",
+    "preorder_price": 480,
+    "release_date": "2月中旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 72,
+    "barcode": "4580886901746",
+    "brand": "BANPRESTO (景品)",
+    "name": "精靈寶可夢 絨毛玩偶 看看我的尾巴！小果然",
+    "preorder_price": 480,
+    "release_date": "2月中旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 73,
+    "barcode": "4580886901760",
+    "brand": "BANPRESTO (景品)",
+    "name": "精靈寶可夢  色彩系列 絨毛玩偶 Yellow 皮卡丘",
+    "preorder_price": 480,
+    "release_date": "2月中旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 74,
+    "barcode": "4580886902224",
+    "brand": "BANPRESTO (景品)",
+    "name": "rurudo ESPRESTO-Sweetest pose 伊芙",
+    "preorder_price": 480,
+    "release_date": "2月上旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 75,
+    "barcode": "4580886902231",
+    "brand": "BANPRESTO (景品)",
+    "name": "rurudo ESPRESTO Sweetest pose 天使警察 艾露",
+    "preorder_price": 480,
+    "release_date": "2月上旬",
+    "close_date": "09/30"
+  },
+  {
+    "id": 76,
+    "barcode": "4573102747136",
+    "brand": "BANPRESTO (景品)",
+    "name": "死神BLEACH MAXIMATIC 血鎖的一護",
+    "preorder_price": 480,
+    "release_date": "2月上旬",
+    "close_date": "09/30"
+  }
+]
