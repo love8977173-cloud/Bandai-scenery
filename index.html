@@ -126,18 +126,16 @@
     }
 
     function getImageUrl(item) {
-      const barcode = item.barcode || 'NO_BARCODE';
-      // 加上時間戳記強制破除瀏覽器與 CDN 快取，確保永遠抓取最新圖檔
-      return `./images/${barcode}.webp?t=v2`;
+      const subpath = item.img_subpath || `Default/${item.barcode || 'NO_BARCODE'}.webp`;
+      return `./images/${subpath}?t=v2`;
     }
 
-    function handleImageError(img, barcode) {
+    function handleImageError(img, item) {
+      const barcode = item.barcode || 'NO_BARCODE';
+      const subpath = item.img_subpath || `Default/${barcode}.webp`;
       if (!img.dataset.triedJpg) {
         img.dataset.triedJpg = "true";
-        img.src = `./images/${barcode}.jpg?t=v2`;
-      } else if (!img.dataset.triedJpeg) {
-        img.dataset.triedJpeg = "true";
-        img.src = `./images/${barcode}.jpeg?t=v2`;
+        img.src = `./images/${subpath.replace(/\.[^/.]+$/, "")}.jpg?t=v2`;
       } else {
         img.onerror = null;
         img.src = `https://placehold.co/300x300/1e293b/94a3b8?text=${barcode}`;
@@ -153,7 +151,7 @@
                  onclick="openModal('${finalImg}', '${item.name.replace(/'/g, "\\'")}')">
               <img src="${finalImg}" loading="lazy" decoding="async" alt="${item.name}" 
                    class="w-full h-full object-cover transition-transform duration-200 hover:scale-105"
-                   onerror="handleImageError(this, '${item.barcode}')"/>
+                   onerror="handleImageError(this, ${JSON.stringify(item).replace(/"/g, '&quot;')})"/>
               <span class="absolute top-1.5 left-1.5 px-1.5 py-0.5 text-[10px] font-semibold bg-slate-950/80 text-amber-300 rounded backdrop-blur-sm">
                 ${item.brand}
               </span>
@@ -202,7 +200,7 @@
           <div class="w-24 sm:w-28 aspect-square bg-slate-800 relative flex-shrink-0 cursor-zoom-in"
                onclick="openModal('${finalImg}', '${item.name.replace(/'/g, "\\'")}')">
             <img src="${finalImg}" loading="lazy" decoding="async" alt="${item.name}" 
-                 class="w-full h-full object-cover" onerror="handleImageError(this, '${item.barcode}')"/>
+                 class="w-full h-full object-cover" onerror="handleImageError(this, ${JSON.stringify(item).replace(/"/g, '&quot;')})"/>
           </div>
           <div class="flex-1 p-3 flex flex-col justify-between">
             <div>
